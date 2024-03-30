@@ -5,7 +5,6 @@ import { Link } from 'react-router-dom'
 
 const Landingpage = () => {
 
-
     const Item = ({ value }) => {
         return (
             <div className="w-full justify-center flex">
