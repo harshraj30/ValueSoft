@@ -124,3 +124,27 @@ export const FrequentData = [
         desc:"There are many good software in india like Tally, Zoho etc. ValueSoft is one of the top inventory and billing software in India. Creating bill is very easy in this software. You get all inventory reports like stock report batch wise, stock summary, goods ledger, dump stock report, expiry report etc.",
     },
 ]
+
+
+export const AboutUsData = [
+    {
+        heading : "We Value Your Business...",
+        title: "The tag line with our logo is not just a catchphrase, we mean it. We persistently strive to achieve it, it's the motto of Kala Softech Private Limited. Over decades of experience in diverse businesses, we know all the right ways to get your business where you want it to be. In the present era, customer experience defines the brand, not the customer size. Our business strategy is - 'Customer's happiness and satisfaction, technical expertise and business intelligence. We work for the stress-free and smiling faces of our customers not for increasing the numbers.",
+        url: "https://kalasoftech.com/img/growth.jpg"
+    },
+    {
+        heading : "Our Journey",
+        title: "We have cascaded decades of hard work, engineering expertise, and business management for creating one-stop solutions for all your business needs. When you choose ValueSoft, you are not just using software, you are using a masterpiece. We have crafted real artwork to solve business issues.",
+        url: "https://kalasoftech.com/img/city_located.jpg"
+    },
+    {
+        heading : "Our Purpose",
+        title: "Our purpose is to minimize the tension, workload of our customers in their daily routine so that they can invest their precious time in growing their business and balance their personal life. We believe in 'Happy customers are the real key for the advertisement and promotion of a brand'. So, Our focus is on quality customer service and software development of our product.",
+        url: "https://kalasoftech.com/img/store.jpg"
+    },
+    {
+        heading : "Our Goal",
+        title: "We believe that 'velocity of money' is key to driving economic growth. Hence, in order to achieve our goal, our technologies will be centered around simplifying commerce for people all over the world and making it easier for people to transact. This will ensure that more value gets added, more gets demanded, more is spent, and more is earned. A faster cycle is a winning situation for all stakeholders and creates a happier world.",
+        url: ""
+    },
+]
